@@ -12,5 +12,5 @@ def makepng(size):
                         res = os.system(cmd)
 
 # makepng("8x8")
-makepng("32x32")
+# makepng("32x32")
 # makepng("16x16")

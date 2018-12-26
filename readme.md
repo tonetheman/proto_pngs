@@ -1,6 +1,7 @@
 
 # proto pngs
 
-32x32 png files I can use for game prototypes
+8x8 16x16 and 32x32 png files to be used for prototypes
 
-Some match the colors from HTML5, all the rest match the colors from image magick.
+None of these are compressed. You can save a little more space if needed by running them through pngquant
+
