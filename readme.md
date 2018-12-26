@@ -3,4 +3,4 @@
 
 32x32 png files I can use for game prototypes
 
-All the color names match to the HTML colors.
+Some match the colors from HTML5, all the rest match the colors from image magick.
