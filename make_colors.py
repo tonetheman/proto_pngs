@@ -14,3 +14,4 @@ def makepng(size):
 # makepng("8x8")
 # makepng("32x32")
 # makepng("16x16")
+makepng("64x64")
